@@ -1,0 +1,11 @@
+{
+  "name": "website-styles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joao Bertholo",
+  "license": "ISC",
+  "description": "Website Common Styles"
+}
